@@ -34,13 +34,7 @@
 </table>  
 </div> 
 
-### <div align="center">STATISTICHE</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gleo9324&show_icons=true&theme=flag-india" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleo9324&layout=compact&size_weight=0.5&count_weight=0.5&&hide=html,css&hide_progress=true" height="170">
-</div>
-
-### <div align="center">CONTATTI</div>
+### <div align="center">CONTACTS</div>
 <div align="center">
 <a href="www.linkedin.com/in/giorgia-leonardi-beaware" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
